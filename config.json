@@ -1,0 +1,6 @@
+{
+  "window_seconds": 10,
+  "model_directory": "models",
+  "live_capture_max_seconds": 60,
+  "note": "Local academic prototype; capture only authorised interfaces and traffic."
+}
